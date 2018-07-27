@@ -7,7 +7,7 @@ It's a template for [Uncode](https://undsgn.com/uncode/) Child Theme with pt-BR 
 3. Clone this repository in that folder
 4. Replace de screenshot.png (880x660 pixels) with the new theme's cover
 5. Update the style.css with theme's info and custom CSS
-6. In Wordpress admin active this theme
+6. In Wordpress admin activate this theme
 
 ## Known Issues
 1. pt-BR translation is incomplete
